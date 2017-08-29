@@ -4,7 +4,10 @@ https://github.com/gastate
 Now consists of: 
 - [Frontend Application](https://github.com/gastate/dalnfrontend)
 - [Backend](https://github.com/gastate/DALN)
-- [REST API](https://github.com/gastate/DALN_REST)
+
+## Live Sites
+- [development site](dalndev.gsu.edu)
+- [prod site](daln.gsu.edu)
 
 
 
