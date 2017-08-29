@@ -6,8 +6,8 @@ Now consists of:
 - [Backend](https://github.com/gastate/DALN)
 
 ## Live Sites
-- [development site](dalndev.gsu.edu)
-- [prod site](daln.gsu.edu)
+- [development site](https://www.dalndev.gsu.edu)
+- [prod site](https://www.daln.gsu.edu)
 
 
 
